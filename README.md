@@ -10,5 +10,5 @@ Toate piesele se pot cumpara de pe magazinul nostru, www.unda.tech/magazin . Fol
 carbon este optionala si nu este inclusa in KIT-ul disponibil online, aceasta se poate fabrica cu usurinta
 urmand pasii din tutorial.
 
-Material apartinand S.C UNDA Tech S.R.L . Distribuirea/modificarea/utilizarea este permisa.
-Acest material este gratuit si nu trebuie distribuit cu scop comercial.
+The software was provided by SimHub and is 100% their property.
+For more information visit: https://github.com/zegreatclan/AssettoCorsaTools/wiki
